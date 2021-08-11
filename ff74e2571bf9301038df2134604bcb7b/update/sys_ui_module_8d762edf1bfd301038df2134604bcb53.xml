@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Sale Management">4d762edf1bfd301038df2134604bcb50</application>
+        <filter/>
+        <name>Sales</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_666565_salesmgt.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-11 13:49:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8d762edf1bfd301038df2134604bcb53</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sales</sys_name>
+        <sys_package display_value="Sales Management" source="x_666565_salesmgt">ff74e2571bf9301038df2134604bcb7b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sales Management">ff74e2571bf9301038df2134604bcb7b</sys_scope>
+        <sys_update_name>sys_ui_module_8d762edf1bfd301038df2134604bcb53</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-11 13:49:19</sys_updated_on>
+        <table>x_666565_salesmgt_sale</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

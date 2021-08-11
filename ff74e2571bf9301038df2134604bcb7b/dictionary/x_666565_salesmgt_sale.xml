@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Sale" max_length="40" name="x_666565_salesmgt_sale" type="collection">
+        <element default="0.00" label="Total sale" mandatory="true" max_length="20" name="total_sale" type="price"/>
+    </element>
+</database>
